@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/wk21-form/static/js/main.fb742011.chunk.js",
+    "main.js.map": "/wk21-form/static/js/main.fb742011.chunk.js.map",
+    "runtime-main.js": "/wk21-form/static/js/runtime-main.e0a1d3ca.js",
+    "runtime-main.js.map": "/wk21-form/static/js/runtime-main.e0a1d3ca.js.map",
+    "static/js/2.7f14e5f3.chunk.js": "/wk21-form/static/js/2.7f14e5f3.chunk.js",
+    "static/js/2.7f14e5f3.chunk.js.map": "/wk21-form/static/js/2.7f14e5f3.chunk.js.map",
+    "index.html": "/wk21-form/index.html",
+    "static/js/2.7f14e5f3.chunk.js.LICENSE.txt": "/wk21-form/static/js/2.7f14e5f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0a1d3ca.js",
+    "static/js/2.7f14e5f3.chunk.js",
+    "static/js/main.fb742011.chunk.js"
+  ]
+}
